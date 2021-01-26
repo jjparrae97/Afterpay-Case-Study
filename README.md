@@ -21,7 +21,7 @@ The growth of Afterpay would not be possible, however, if not for their merger w
 ## Growth of Alternate Finance and Rise of Oceania's FinTech Industry
 
 ![](images/zip-afterpay-local.jpg)
-##### Afterpay and Zip have become mainstrays in Australian retailers
+##### Afterpay and Zip have become mainstays in Australian retailers
 
 Afterpay is one of many rising companies within the alternative financing industry, an industry which as a whole has become increasingly popular due to the growing use of the internet as well as the financial hardships brought about by the Coronavirus pandemic. Over the past decade, multiple similar services sprung up including Affirm, Zip, and Laybuy among many others. 
 
