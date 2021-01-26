@@ -41,7 +41,8 @@ Afterpay's growth is not hampered by the concurrent growth of domestic competito
 
 ## Recommendations
 
-![](images/cc-or-afterpay.png)
+![CCs or Afterpay](images/CC-or-afterpay.png)
+##### Afterpay is not available everywhere, unlike most credit cards
 
 There are limits to Afterpay, however, which could limit their expansion unless they were addressed. For example, Afterpay is only available through partnered retailers. This obviously excludes non-partner businesses, though this may not be the retailer's fault. Many small local businesses may not have the infrastructure to support Afterpay's model. Although it would run contrary to Afterpay's mission, the inclusion of a traditional credit platform would help to reach non-participating retailers. Afterpay has created a physical card for their services and are available on Apple and Google Pay, which demonstrates the company's ability to run a traditional line of credit. This credit line would not have to interfere or interact with their non-traditional counterpart but would likely be able to run on existing infrastructure available to Afterpay. 
 
